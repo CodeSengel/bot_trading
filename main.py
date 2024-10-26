@@ -2,7 +2,7 @@ from binance.client import Client
 import time
 
 API_KEY = "VOTRE cle API"
-API_SECRET = "ta cle secrete"
+API_SECRET = "VOTRE cle secrete"
 
 client = Client(API_KEY,API_SECRET,testnet = True)
 
